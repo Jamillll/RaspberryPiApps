@@ -1,0 +1,7 @@
+Mario player
+
+Parts:
+- Cytron Maker Pi Pico
+
+Desc:
+This app uses the built in GPIO debug LED's, the built in buttons and the built in buzzer to allow the user to play the mario theme, with a LED pitch visualiser 
